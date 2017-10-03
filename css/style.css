@@ -1,0 +1,39 @@
+body{
+	
+	background:url(https://media.gq.com/photos/58fe638beb1feb7c1b66daf1/64:25/w_1280/2017-04_Hub-Netflix_Tout_3x2.jpg);
+}
+
+label {
+	font-size: 18px;
+}
+
+
+
+
+#show {
+	margin-right: 5px;
+	margin-left: 5px;
+	left: 400px;
+	
+
+}
+
+#addShow{
+	position:absolute;
+	top: 51%;
+	left: 32%
+
+}
+
+#gifArea {
+	clear: both;
+	display: inline;
+	flex-wrap: wrap;
+}
+
+#netflixInput{
+	position:absolute;
+	top: 51%;
+	left: 18%
+
+}
